@@ -1,0 +1,15 @@
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\obj\Debug\net7.0\ColeccionesGenericas.csproj.AssemblyReference.cache
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\obj\Debug\net7.0\ColeccionesGenericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\obj\Debug\net7.0\ColeccionesGenericas.AssemblyInfoInputs.cache
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\obj\Debug\net7.0\ColeccionesGenericas.AssemblyInfo.cs
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\obj\Debug\net7.0\ColeccionesGenericas.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\bin\Debug\net7.0\ColeccionesGenericas.exe
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\bin\Debug\net7.0\ColeccionesGenericas.deps.json
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\bin\Debug\net7.0\ColeccionesGenericas.runtimeconfig.json
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\bin\Debug\net7.0\ColeccionesGenericas.dll
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\bin\Debug\net7.0\ColeccionesGenericas.pdb
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\obj\Debug\net7.0\ColeccionesGenericas.dll
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\obj\Debug\net7.0\refint\ColeccionesGenericas.dll
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\obj\Debug\net7.0\ColeccionesGenericas.pdb
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\obj\Debug\net7.0\ColeccionesGenericas.genruntimeconfig.cache
+C:\Users\pillo\Documentos\Cs\ColeccionesGenericas\obj\Debug\net7.0\ref\ColeccionesGenericas.dll

@@ -1,0 +1,15 @@
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\bin\Debug\net7.0\ColeccionesConGenericos.exe
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\bin\Debug\net7.0\ColeccionesConGenericos.deps.json
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\bin\Debug\net7.0\ColeccionesConGenericos.runtimeconfig.json
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\bin\Debug\net7.0\ColeccionesConGenericos.dll
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\bin\Debug\net7.0\ColeccionesConGenericos.pdb
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\obj\Debug\net7.0\ColeccionesConGenericos.csproj.AssemblyReference.cache
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\obj\Debug\net7.0\ColeccionesConGenericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\obj\Debug\net7.0\ColeccionesConGenericos.AssemblyInfoInputs.cache
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\obj\Debug\net7.0\ColeccionesConGenericos.AssemblyInfo.cs
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\obj\Debug\net7.0\ColeccionesConGenericos.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\obj\Debug\net7.0\ColeccionesConGenericos.dll
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\obj\Debug\net7.0\refint\ColeccionesConGenericos.dll
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\obj\Debug\net7.0\ColeccionesConGenericos.pdb
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\obj\Debug\net7.0\ColeccionesConGenericos.genruntimeconfig.cache
+C:\Users\pillo\Documentos\Cs\ColeccionesConGenericos\obj\Debug\net7.0\ref\ColeccionesConGenericos.dll

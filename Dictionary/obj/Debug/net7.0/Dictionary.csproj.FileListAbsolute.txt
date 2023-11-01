@@ -1,0 +1,15 @@
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/bin/Debug/net7.0/Dictionary
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/obj/Debug/net7.0/Dictionary.csproj.AssemblyReference.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll

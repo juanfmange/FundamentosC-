@@ -1,0 +1,15 @@
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/bin/Debug/net7.0/Stack
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/bin/Debug/net7.0/Stack.deps.json
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/bin/Debug/net7.0/Stack.runtimeconfig.json
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/bin/Debug/net7.0/Stack.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/bin/Debug/net7.0/Stack.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/obj/Debug/net7.0/Stack.csproj.AssemblyReference.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/obj/Debug/net7.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/obj/Debug/net7.0/Stack.AssemblyInfoInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/obj/Debug/net7.0/Stack.AssemblyInfo.cs
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/obj/Debug/net7.0/Stack.csproj.CoreCompileInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/obj/Debug/net7.0/Stack.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/obj/Debug/net7.0/refint/Stack.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/obj/Debug/net7.0/Stack.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/obj/Debug/net7.0/Stack.genruntimeconfig.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Stack/obj/Debug/net7.0/ref/Stack.dll

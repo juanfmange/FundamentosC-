@@ -1,0 +1,15 @@
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/bin/Debug/net7.0/List2
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/bin/Debug/net7.0/List2.deps.json
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/bin/Debug/net7.0/List2.runtimeconfig.json
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/bin/Debug/net7.0/List2.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/bin/Debug/net7.0/List2.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/obj/Debug/net7.0/List2.csproj.AssemblyReference.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/obj/Debug/net7.0/List2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/obj/Debug/net7.0/List2.AssemblyInfoInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/obj/Debug/net7.0/List2.AssemblyInfo.cs
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/obj/Debug/net7.0/List2.csproj.CoreCompileInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/obj/Debug/net7.0/List2.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/obj/Debug/net7.0/refint/List2.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/obj/Debug/net7.0/List2.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/obj/Debug/net7.0/List2.genruntimeconfig.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/List2/obj/Debug/net7.0/ref/List2.dll

@@ -1,0 +1,15 @@
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/bin/Debug/net7.0/Queue
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/bin/Debug/net7.0/Queue.deps.json
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/bin/Debug/net7.0/Queue.runtimeconfig.json
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/bin/Debug/net7.0/Queue.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/bin/Debug/net7.0/Queue.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/obj/Debug/net7.0/Queue.csproj.AssemblyReference.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/obj/Debug/net7.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/obj/Debug/net7.0/Queue.AssemblyInfoInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/obj/Debug/net7.0/Queue.AssemblyInfo.cs
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/obj/Debug/net7.0/Queue.csproj.CoreCompileInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/obj/Debug/net7.0/Queue.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/obj/Debug/net7.0/refint/Queue.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/obj/Debug/net7.0/Queue.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/obj/Debug/net7.0/Queue.genruntimeconfig.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Queue/obj/Debug/net7.0/ref/Queue.dll

@@ -1,0 +1,15 @@
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/bin/Debug/net7.0/ComparacionStrings
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/bin/Debug/net7.0/ComparacionStrings.deps.json
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/bin/Debug/net7.0/ComparacionStrings.runtimeconfig.json
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/bin/Debug/net7.0/ComparacionStrings.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/bin/Debug/net7.0/ComparacionStrings.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/obj/Debug/net7.0/ComparacionStrings.csproj.AssemblyReference.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/obj/Debug/net7.0/ComparacionStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/obj/Debug/net7.0/ComparacionStrings.AssemblyInfoInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/obj/Debug/net7.0/ComparacionStrings.AssemblyInfo.cs
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/obj/Debug/net7.0/ComparacionStrings.csproj.CoreCompileInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/obj/Debug/net7.0/ComparacionStrings.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/obj/Debug/net7.0/refint/ComparacionStrings.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/obj/Debug/net7.0/ComparacionStrings.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/obj/Debug/net7.0/ComparacionStrings.genruntimeconfig.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/ComparacionStrings/obj/Debug/net7.0/ref/ComparacionStrings.dll

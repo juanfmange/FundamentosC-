@@ -1,0 +1,14 @@
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/bin/Debug/netcoreapp3.1/MetodosFunciones
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/bin/Debug/netcoreapp3.1/MetodosFunciones.deps.json
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/bin/Debug/netcoreapp3.1/MetodosFunciones.runtimeconfig.json
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/bin/Debug/netcoreapp3.1/MetodosFunciones.runtimeconfig.dev.json
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/bin/Debug/netcoreapp3.1/MetodosFunciones.dll
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/bin/Debug/netcoreapp3.1/MetodosFunciones.pdb
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/obj/Debug/netcoreapp3.1/MetodosFunciones.csproj.AssemblyReference.cache
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/obj/Debug/netcoreapp3.1/MetodosFunciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/obj/Debug/netcoreapp3.1/MetodosFunciones.AssemblyInfoInputs.cache
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/obj/Debug/netcoreapp3.1/MetodosFunciones.AssemblyInfo.cs
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/obj/Debug/netcoreapp3.1/MetodosFunciones.csproj.CoreCompileInputs.cache
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/obj/Debug/netcoreapp3.1/MetodosFunciones.dll
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/obj/Debug/netcoreapp3.1/MetodosFunciones.pdb
+/Users/juanmange/Documents/csharp/MetodosFunciones/MetodosFunciones/obj/Debug/netcoreapp3.1/MetodosFunciones.genruntimeconfig.cache

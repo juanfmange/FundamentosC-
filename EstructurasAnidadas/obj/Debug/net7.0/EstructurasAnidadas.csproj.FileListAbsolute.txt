@@ -1,0 +1,15 @@
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/bin/Debug/net7.0/EstructurasAnidadas
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/bin/Debug/net7.0/EstructurasAnidadas.deps.json
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/bin/Debug/net7.0/EstructurasAnidadas.runtimeconfig.json
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/bin/Debug/net7.0/EstructurasAnidadas.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/bin/Debug/net7.0/EstructurasAnidadas.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/obj/Debug/net7.0/EstructurasAnidadas.csproj.AssemblyReference.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/obj/Debug/net7.0/EstructurasAnidadas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/obj/Debug/net7.0/EstructurasAnidadas.AssemblyInfoInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/obj/Debug/net7.0/EstructurasAnidadas.AssemblyInfo.cs
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/obj/Debug/net7.0/EstructurasAnidadas.csproj.CoreCompileInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/obj/Debug/net7.0/EstructurasAnidadas.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/obj/Debug/net7.0/refint/EstructurasAnidadas.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/obj/Debug/net7.0/EstructurasAnidadas.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/obj/Debug/net7.0/EstructurasAnidadas.genruntimeconfig.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/EstructurasAnidadas/obj/Debug/net7.0/ref/EstructurasAnidadas.dll

@@ -1,0 +1,15 @@
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/bin/Debug/net7.0/Enums
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/bin/Debug/net7.0/Enums.deps.json
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/bin/Debug/net7.0/Enums.runtimeconfig.json
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/bin/Debug/net7.0/Enums.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/bin/Debug/net7.0/Enums.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/obj/Debug/net7.0/Enums.csproj.AssemblyReference.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/obj/Debug/net7.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/obj/Debug/net7.0/Enums.AssemblyInfoInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/obj/Debug/net7.0/Enums.AssemblyInfo.cs
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/obj/Debug/net7.0/Enums.csproj.CoreCompileInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/obj/Debug/net7.0/Enums.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/obj/Debug/net7.0/refint/Enums.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/obj/Debug/net7.0/Enums.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/obj/Debug/net7.0/Enums.genruntimeconfig.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/Enums/obj/Debug/net7.0/ref/Enums.dll

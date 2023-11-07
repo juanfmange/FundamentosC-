@@ -1,0 +1,15 @@
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/bin/Debug/net7.0/MatricesDeEstructuras
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/bin/Debug/net7.0/MatricesDeEstructuras.deps.json
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/bin/Debug/net7.0/MatricesDeEstructuras.runtimeconfig.json
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/bin/Debug/net7.0/MatricesDeEstructuras.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/bin/Debug/net7.0/MatricesDeEstructuras.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/obj/Debug/net7.0/MatricesDeEstructuras.csproj.AssemblyReference.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/obj/Debug/net7.0/MatricesDeEstructuras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/obj/Debug/net7.0/MatricesDeEstructuras.AssemblyInfoInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/obj/Debug/net7.0/MatricesDeEstructuras.AssemblyInfo.cs
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/obj/Debug/net7.0/MatricesDeEstructuras.csproj.CoreCompileInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/obj/Debug/net7.0/MatricesDeEstructuras.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/obj/Debug/net7.0/refint/MatricesDeEstructuras.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/obj/Debug/net7.0/MatricesDeEstructuras.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/obj/Debug/net7.0/MatricesDeEstructuras.genruntimeconfig.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/MatricesDeEstructuras/obj/Debug/net7.0/ref/MatricesDeEstructuras.dll

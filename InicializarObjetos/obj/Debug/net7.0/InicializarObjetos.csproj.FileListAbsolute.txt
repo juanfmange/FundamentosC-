@@ -1,0 +1,15 @@
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/bin/Debug/net7.0/InicializarObjetos
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/bin/Debug/net7.0/InicializarObjetos.deps.json
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/bin/Debug/net7.0/InicializarObjetos.runtimeconfig.json
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/bin/Debug/net7.0/InicializarObjetos.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/bin/Debug/net7.0/InicializarObjetos.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/obj/Debug/net7.0/InicializarObjetos.csproj.AssemblyReference.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/obj/Debug/net7.0/InicializarObjetos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/obj/Debug/net7.0/InicializarObjetos.AssemblyInfoInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/obj/Debug/net7.0/InicializarObjetos.AssemblyInfo.cs
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/obj/Debug/net7.0/InicializarObjetos.csproj.CoreCompileInputs.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/obj/Debug/net7.0/InicializarObjetos.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/obj/Debug/net7.0/refint/InicializarObjetos.dll
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/obj/Debug/net7.0/InicializarObjetos.pdb
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/obj/Debug/net7.0/InicializarObjetos.genruntimeconfig.cache
+/Users/juanmange/Documents/csharp/FundamentosCS/InicializarObjetos/obj/Debug/net7.0/ref/InicializarObjetos.dll
